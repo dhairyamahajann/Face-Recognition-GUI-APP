@@ -1,0 +1,6 @@
+https://github.com/joeVenner/FaceRecognition-GUI-APP
+
+
+• Imported DLib and Face Recognition libraries for face detection and recognition.
+• Used HAAR detection to make bounding boxes with more than 95% accuracy, thus creating annotated datasets to train custom SVM and ANN models.
+• Used OpenCV to work with caffe models and prototxt inputs for gender and age detection of custom dataset images.
